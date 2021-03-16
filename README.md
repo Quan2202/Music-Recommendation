@@ -1,4 +1,4 @@
 # Music-Recommendation
 
-Build a linear regression model using Pyspark ML to predict admission
-chances at a University in North America.
+Use ALS Algorithm to create a Music Recommender system to suggest new
+tracks to different users.
